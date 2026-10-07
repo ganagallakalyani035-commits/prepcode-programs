@@ -10,3 +10,4 @@ c="hello.world".title()
 print(c)
 d="hello".strip()
 print(d)
+
