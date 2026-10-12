@@ -1,0 +1,13 @@
+count=int(input("Enter the number:"))
+output=[]
+for i in range(1,count+1):
+if i% 3 = =0:
+if i% 5 = =0:
+    output.append ("fizz buzz")
+else:
+    output.append("fizz")
+elif i % 5==0:
+    output.append("buzz")
+else:
+    output.append(j)
+print(output)
