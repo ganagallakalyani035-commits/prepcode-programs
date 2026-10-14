@@ -1,2 +1,6 @@
 def factorial(n):
-    fact=
+    fact=1
+    for i in range(1,n+1):
+        fact=fact*1
+    return fact
+    print(factorial(5))
